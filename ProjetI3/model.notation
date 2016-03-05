@@ -7,7 +7,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FhzmE-CgEeWF2aP5lqVjIw"/>
     </children>
     <element xmi:type="uml:Model" href="model.uml#_hX0I4N1ZEeWF2aP5lqVjIw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fhy_AeCgEeWF2aP5lqVjIw" x="150" y="15"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fhy_AeCgEeWF2aP5lqVjIw" x="125" y="15"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_GV7KoOCgEeWF2aP5lqVjIw" type="2005">
     <children xmi:type="notation:DecorationNode" xmi:id="_GV7xsOCgEeWF2aP5lqVjIw" type="5020"/>
@@ -16,7 +16,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GV7xs-CgEeWF2aP5lqVjIw"/>
     </children>
     <element xmi:type="uml:Model" href="model.uml#_mgWwAN1ZEeWF2aP5lqVjIw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GV7KoeCgEeWF2aP5lqVjIw" x="155" y="147"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GV7KoeCgEeWF2aP5lqVjIw" x="133" y="146"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_HecR4OCgEeWF2aP5lqVjIw" type="2005">
     <children xmi:type="notation:DecorationNode" xmi:id="_Hec48OCgEeWF2aP5lqVjIw" type="5020"/>
