@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_qJYpAN1VEeWvnPeDtBVI9Q" name="System">
-  <packagedElement xmi:type="uml:Model" xmi:id="_hX0I4N1ZEeWF2aP5lqVjIw" name="Operational Analysis"/>
+  <packagedElement xmi:type="uml:Model" xmi:id="_hX0I4N1ZEeWF2aP5lqVjIw" name="Operational Analysis">
+    <packagedElement xmi:type="uml:Package" xmi:id="_x5pNgOMtEeWJXP1ncxjsKQ" name="Acteurs"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_-hb0cOMtEeWJXP1ncxjsKQ" name="Use Case"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_QCsEsOMuEeWJXP1ncxjsKQ" name="Scénarios opérationnelles"/>
+  </packagedElement>
   <packagedElement xmi:type="uml:Model" xmi:id="_mgWwAN1ZEeWF2aP5lqVjIw" name="System Analysis"/>
   <packagedElement xmi:type="uml:Model" xmi:id="_oMMmwN1ZEeWF2aP5lqVjIw" name="Logical Architecture"/>
   <packagedElement xmi:type="uml:Model" xmi:id="_J0PEkOCgEeWF2aP5lqVjIw" name="Physical architecture"/>
